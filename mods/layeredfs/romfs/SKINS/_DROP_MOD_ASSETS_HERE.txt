@@ -1,0 +1,1 @@
+Drop 0.12-alpha Wardrobe skin folders (<skin_id>/texture.bin, model.bin, day1-8.bin, rooms.bin, meta.bin) here.

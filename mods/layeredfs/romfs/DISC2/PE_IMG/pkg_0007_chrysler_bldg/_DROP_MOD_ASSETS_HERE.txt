@@ -1,0 +1,6 @@
+Parasite Eve v0.12-alpha LayeredFS Package Folder: DISC2/PE_IMG/pkg_0007_chrysler_bldg
+--------------------------------------------------------------------
+Drop replacement sub-assets into the matching type_XX_* folder
+(for example: type_02_models/asset_0000.bin or type_09_textures/asset_0000.bin).
+Any asset NOT placed in this folder is read automatically from your
+original unmodified Parasite Eve BIN/CUE or CHD disc image.

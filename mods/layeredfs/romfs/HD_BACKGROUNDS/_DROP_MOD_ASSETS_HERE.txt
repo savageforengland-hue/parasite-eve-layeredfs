@@ -1,0 +1,1 @@
+Drop 0.12-alpha WebP/PNG HD background and widescreen layers here.
